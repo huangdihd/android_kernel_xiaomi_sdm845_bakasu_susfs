@@ -193,7 +193,7 @@ jobs:
           | Devices | beryllium · dipper · equuleus · perseus · polaris · ursa |
           | Build time (UTC) | ${BUILD_TIME} |
           | SUSFS | ${SUSFS_VER} |
-          | KernelSU | ReSukiSU |
+          | KernelSU | BakaSU |
           | DroidSpaces | Supported |
           | Baseband-guard | Supported |
 
@@ -235,7 +235,7 @@ jobs:
           <b>🏷️ Release:</b> <code>${REL_NAME}</code>
           <b>📱 Devices:</b> beryllium · dipper · equuleus · perseus · polaris · ursa
           <b>🛡️ SUSFS:</b> ${SUSFS_VER}
-          <b>🔐 KernelSU:</b> ReSukiSU
+          <b>🔐 KernelSU:</b> BakaSU
           <b>🌐 DroidSpaces:</b> Supported
           <b>📡 Baseband-guard:</b> Supported
           ━━━━━━━━━━━━━━━━━━
